@@ -31,29 +31,6 @@ public class Notes {
         }
     }
 
-    public String[] getNOTE_NAMES() {
-        return NOTE_NAMES;
-    }
-
-    public int getKey() {
-        return key;
-    }
-
-    public int getOctave() {
-        return octave;
-    }
-
-    public int getNote() {
-        return note;
-    }
-
-    public String getNoteName() {
-        return noteName;
-    }
-
-    public int getVelocity() {
-        return velocity;
-    }
 
     public String getSynthNotes() {
         return synthNotes;

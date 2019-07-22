@@ -11,7 +11,7 @@ public class MidiReader {
     private int NOTE_OFF = 0x80;
     private String[] NOTE_NAMES = {"C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "H"};
     private String path= "D:/!Projekte/MidiReaded/Output";
-    private String inputPath= "src/Mid/Tetris.mid";
+    private String inputPath= "src/Mid/STALKER Clear Sky - Bandit Radio.mid";
     private String fileName = inputPath.substring(0,inputPath.length()- 3) + "txt";
 
     public static void main(String[] args) throws Exception {

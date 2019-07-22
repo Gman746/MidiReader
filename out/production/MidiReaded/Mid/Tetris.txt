@@ -1,0 +1,1400 @@
+-----------------------------------------------------------------------------------------------
+Track 1 size = 649
+
+@0 @0 @0 @0 @0 @0 @0 @0 Channel: 0 Command:192
+@0 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@2 Channel: 0 Command:176
+@4 Channel: 0 Command:176
+@6 Channel: 0 Command:176
+@8 Channel: 0 Command:176
+@479 Channel: 0 null
+@480 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@719 Channel: 0 null
+@720 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@959 Channel: 0 null
+@960 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@1199 Channel: 0 null
+@1200 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@1319 Channel: 0 null
+@1320 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@1439 Channel: 0 null
+@1440 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@1679 Channel: 0 null
+@1680 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@1919 Channel: 0 null
+@1920 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@2399 Channel: 0 null
+@2400 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@2639 Channel: 0 null
+@2640 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@2879 Channel: 0 null
+@2880 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@3359 Channel: 0 null
+@3360 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@3599 Channel: 0 null
+@3600 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@3839 Channel: 0 null
+@3840 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@4319 Channel: 0 null
+@4320 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@4439 Channel: 0 null
+@4440 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@4559 Channel: 0 null
+@4560 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@4799 Channel: 0 null
+@4800 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@5279 Channel: 0 null
+@5280 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@5759 Channel: 0 null
+@5760 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@6239 Channel: 0 null
+@6240 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@6719 Channel: 0 null
+@6720 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@7679 Channel: 0 null
+@7680 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@8159 Channel: 0 null
+@8160 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@8399 Channel: 0 null
+@8400 Channel: 0 Notes{ octave=5, noteName='F', velocity=112, synthNotes='9 [5]'}
+@8639 Channel: 0 null
+@8640 Channel: 0 Notes{ octave=5, noteName='A', velocity=112, synthNotes='13 [5]'}
+@9119 Channel: 0 null
+@9120 Channel: 0 Notes{ octave=5, noteName='G', velocity=112, synthNotes='11 [5]'}
+@9359 Channel: 0 null
+@9360 Channel: 0 Notes{ octave=5, noteName='F', velocity=112, synthNotes='9 [5]'}
+@9599 Channel: 0 null
+@9600 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@10079 Channel: 0 null
+@10080 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@10319 Channel: 0 null
+@10320 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@10559 Channel: 0 null
+@10560 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@11039 Channel: 0 null
+@11040 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@11279 Channel: 0 null
+@11280 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@11519 Channel: 0 null
+@11520 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@11999 Channel: 0 null
+@12000 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@12119 Channel: 0 null
+@12120 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@12239 Channel: 0 null
+@12240 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@12479 Channel: 0 null
+@12480 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@12959 Channel: 0 null
+@12960 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@13439 Channel: 0 null
+@13440 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@13919 Channel: 0 null
+@13920 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@14399 Channel: 0 null
+@14400 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@15359 Channel: 0 null
+@15360 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@15839 Channel: 0 null
+@15840 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@16079 Channel: 0 null
+@16080 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@16319 Channel: 0 null
+@16320 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@16559 Channel: 0 null
+@16560 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@16679 Channel: 0 null
+@16680 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@16799 Channel: 0 null
+@16800 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@17039 Channel: 0 null
+@17040 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@17279 Channel: 0 null
+@17280 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@17759 Channel: 0 null
+@17760 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@17999 Channel: 0 null
+@18000 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@18239 Channel: 0 null
+@18240 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@18719 Channel: 0 null
+@18720 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@18959 Channel: 0 null
+@18960 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@19199 Channel: 0 null
+@19200 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@19679 Channel: 0 null
+@19680 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@19919 Channel: 0 null
+@19920 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@20159 Channel: 0 null
+@20160 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@20639 Channel: 0 null
+@20640 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@21119 Channel: 0 null
+@21120 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@21599 Channel: 0 null
+@21600 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@22079 Channel: 0 null
+@22080 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@23039 Channel: 0 null
+@23040 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@23519 Channel: 0 null
+@23520 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@23759 Channel: 0 null
+@23760 Channel: 0 Notes{ octave=5, noteName='F', velocity=112, synthNotes='9 [5]'}
+@23999 Channel: 0 null
+@24000 Channel: 0 Notes{ octave=5, noteName='A', velocity=112, synthNotes='13 [5]'}
+@24479 Channel: 0 null
+@24480 Channel: 0 Notes{ octave=5, noteName='G', velocity=112, synthNotes='11 [5]'}
+@24719 Channel: 0 null
+@24720 Channel: 0 Notes{ octave=5, noteName='F', velocity=112, synthNotes='9 [5]'}
+@24959 Channel: 0 null
+@24960 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@25439 Channel: 0 null
+@25440 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@25679 Channel: 0 null
+@25680 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@25919 Channel: 0 null
+@25920 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@26399 Channel: 0 null
+@26400 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@26639 Channel: 0 null
+@26640 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@26879 Channel: 0 null
+@26880 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@27359 Channel: 0 null
+@27360 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@27599 Channel: 0 null
+@27600 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@27839 Channel: 0 null
+@27840 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@28319 Channel: 0 null
+@28320 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@28799 Channel: 0 null
+@28800 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@29279 Channel: 0 null
+@29280 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@29759 Channel: 0 null
+@29760 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@30719 Channel: 0 null
+@30720 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@30720 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@31679 Channel: 0 null
+@31679 Channel: 0 null
+@31680 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@31680 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@32639 Channel: 0 null
+@32639 Channel: 0 null
+@32640 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@32640 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@33599 Channel: 0 null
+@33599 Channel: 0 null
+@33600 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@33600 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@34559 Channel: 0 null
+@34559 Channel: 0 null
+@34560 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@34560 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@35519 Channel: 0 null
+@35519 Channel: 0 null
+@35520 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@35520 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@36479 Channel: 0 null
+@36479 Channel: 0 null
+@36480 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@36480 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@37439 Channel: 0 null
+@37439 Channel: 0 null
+@37440 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@37440 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@38399 Channel: 0 null
+@38399 Channel: 0 null
+@38400 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@38400 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@39359 Channel: 0 null
+@39359 Channel: 0 null
+@39360 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@39360 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@40319 Channel: 0 null
+@40319 Channel: 0 null
+@40320 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@40320 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@41279 Channel: 0 null
+@41279 Channel: 0 null
+@41280 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@41280 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@42239 Channel: 0 null
+@42239 Channel: 0 null
+@42240 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@42240 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@42719 Channel: 0 null
+@42719 Channel: 0 null
+@42720 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@42720 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@43199 Channel: 0 null
+@43199 Channel: 0 null
+@43200 Channel: 0 Notes{ octave=5, noteName='A', velocity=112, synthNotes='13 [5]'}
+@43200 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@43679 Channel: 0 null
+@43679 Channel: 0 null
+@43680 Channel: 0 Notes{ octave=5, noteName='A', velocity=112, synthNotes='13 [5]'}
+@43680 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@44159 Channel: 0 null
+@44159 Channel: 0 null
+@44160 Channel: 0 Notes{ octave=5, noteName='G#', velocity=112, synthNotes='12 [5]'}
+@44160 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@46079 Channel: 0 null
+@46079 Channel: 0 null
+@46080 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@46080 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@46559 Channel: 0 null
+@46559 Channel: 0 null
+@46560 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@46560 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@46799 Channel: 0 null
+@46799 Channel: 0 null
+@46800 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@46800 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@47039 Channel: 0 null
+@47039 Channel: 0 null
+@47040 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@47040 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@47279 Channel: 0 null
+@47279 Channel: 0 null
+@47280 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@47399 Channel: 0 null
+@47400 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@47519 Channel: 0 null
+@47520 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@47520 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@47759 Channel: 0 null
+@47759 Channel: 0 null
+@47760 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@47760 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@47999 Channel: 0 null
+@47999 Channel: 0 null
+@48000 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@48000 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@48479 Channel: 0 null
+@48479 Channel: 0 null
+@48480 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@48480 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@48719 Channel: 0 null
+@48719 Channel: 0 null
+@48720 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@48720 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@48959 Channel: 0 null
+@48959 Channel: 0 null
+@48960 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@48960 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@49439 Channel: 0 null
+@49439 Channel: 0 null
+@49440 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@49440 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@49679 Channel: 0 null
+@49679 Channel: 0 null
+@49680 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@49680 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@49919 Channel: 0 null
+@49919 Channel: 0 null
+@49920 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@49920 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@50159 Channel: 0 null
+@50159 Channel: 0 null
+@50160 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@50399 Channel: 0 null
+@50400 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@50519 Channel: 0 null
+@50520 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@50639 Channel: 0 null
+@50640 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@50879 Channel: 0 null
+@50880 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@50880 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@51359 Channel: 0 null
+@51359 Channel: 0 null
+@51360 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@51360 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@51839 Channel: 0 null
+@51839 Channel: 0 null
+@51840 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@51840 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@52319 Channel: 0 null
+@52319 Channel: 0 null
+@52320 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@52320 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@52799 Channel: 0 null
+@52799 Channel: 0 null
+@52800 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@52800 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@53759 Channel: 0 null
+@53759 Channel: 0 null
+@53760 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@53760 Channel: 0 Notes{ octave=4, noteName='F', velocity=112, synthNotes='9 [4]'}
+@54239 Channel: 0 null
+@54239 Channel: 0 null
+@54240 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@54240 Channel: 0 Notes{ octave=4, noteName='F', velocity=112, synthNotes='9 [4]'}
+@54479 Channel: 0 null
+@54479 Channel: 0 null
+@54480 Channel: 0 Notes{ octave=5, noteName='F', velocity=112, synthNotes='9 [5]'}
+@54480 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@54719 Channel: 0 null
+@54719 Channel: 0 null
+@54720 Channel: 0 Notes{ octave=5, noteName='A', velocity=112, synthNotes='13 [5]'}
+@54720 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@55199 Channel: 0 null
+@55199 Channel: 0 null
+@55200 Channel: 0 Notes{ octave=5, noteName='G', velocity=112, synthNotes='11 [5]'}
+@55200 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@55439 Channel: 0 null
+@55439 Channel: 0 null
+@55440 Channel: 0 Notes{ octave=5, noteName='F', velocity=112, synthNotes='9 [5]'}
+@55440 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@55679 Channel: 0 null
+@55679 Channel: 0 null
+@55680 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@55680 Channel: 0 Notes{ octave=4, noteName='G', velocity=112, synthNotes='11 [4]'}
+@56159 Channel: 0 null
+@56159 Channel: 0 null
+@56160 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@56160 Channel: 0 Notes{ octave=4, noteName='G', velocity=112, synthNotes='11 [4]'}
+@56399 Channel: 0 null
+@56399 Channel: 0 null
+@56400 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@56400 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@56639 Channel: 0 null
+@56639 Channel: 0 null
+@56640 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@56640 Channel: 0 Notes{ octave=4, noteName='G', velocity=112, synthNotes='11 [4]'}
+@57119 Channel: 0 null
+@57119 Channel: 0 null
+@57120 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@57120 Channel: 0 Notes{ octave=4, noteName='F', velocity=112, synthNotes='9 [4]'}
+@57359 Channel: 0 null
+@57359 Channel: 0 null
+@57360 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@57360 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@57599 Channel: 0 null
+@57599 Channel: 0 null
+@57600 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@57600 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@57839 Channel: 0 null
+@57839 Channel: 0 null
+@57840 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@58079 Channel: 0 null
+@58080 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@58199 Channel: 0 null
+@58200 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@58319 Channel: 0 null
+@58320 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@58559 Channel: 0 null
+@58560 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@58560 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@59039 Channel: 0 null
+@59039 Channel: 0 null
+@59040 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@59040 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@59519 Channel: 0 null
+@59519 Channel: 0 null
+@59520 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@59520 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@59999 Channel: 0 null
+@59999 Channel: 0 null
+@60000 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@60000 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@60479 Channel: 0 null
+@60479 Channel: 0 null
+@60480 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@60480 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@61439 Channel: 0 null
+@61439 Channel: 0 null
+@61440 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@61440 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@61919 Channel: 0 null
+@61919 Channel: 0 null
+@61920 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@61920 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@62159 Channel: 0 null
+@62159 Channel: 0 null
+@62160 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@62160 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@62399 Channel: 0 null
+@62399 Channel: 0 null
+@62400 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@62400 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@62639 Channel: 0 null
+@62639 Channel: 0 null
+@62640 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@62759 Channel: 0 null
+@62760 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@62879 Channel: 0 null
+@62880 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@62880 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@63119 Channel: 0 null
+@63119 Channel: 0 null
+@63120 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@63120 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@63359 Channel: 0 null
+@63359 Channel: 0 null
+@63360 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@63360 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@63839 Channel: 0 null
+@63839 Channel: 0 null
+@63840 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@63840 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@64079 Channel: 0 null
+@64079 Channel: 0 null
+@64080 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@64080 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@64319 Channel: 0 null
+@64319 Channel: 0 null
+@64320 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@64320 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@64799 Channel: 0 null
+@64799 Channel: 0 null
+@64800 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@64800 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@65039 Channel: 0 null
+@65039 Channel: 0 null
+@65040 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@65040 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@65279 Channel: 0 null
+@65279 Channel: 0 null
+@65280 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@65280 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@65519 Channel: 0 null
+@65519 Channel: 0 null
+@65520 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@65759 Channel: 0 null
+@65760 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@65879 Channel: 0 null
+@65880 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@65999 Channel: 0 null
+@66000 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@66239 Channel: 0 null
+@66240 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@66240 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@66719 Channel: 0 null
+@66719 Channel: 0 null
+@66720 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@66720 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@67199 Channel: 0 null
+@67199 Channel: 0 null
+@67200 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@67200 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@67679 Channel: 0 null
+@67679 Channel: 0 null
+@67680 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@67680 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@68159 Channel: 0 null
+@68159 Channel: 0 null
+@68160 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@68160 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@69119 Channel: 0 null
+@69119 Channel: 0 null
+@69120 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@69120 Channel: 0 Notes{ octave=4, noteName='F', velocity=112, synthNotes='9 [4]'}
+@69599 Channel: 0 null
+@69599 Channel: 0 null
+@69600 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@69600 Channel: 0 Notes{ octave=4, noteName='F', velocity=112, synthNotes='9 [4]'}
+@69839 Channel: 0 null
+@69839 Channel: 0 null
+@69840 Channel: 0 Notes{ octave=5, noteName='F', velocity=112, synthNotes='9 [5]'}
+@69840 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@70079 Channel: 0 null
+@70079 Channel: 0 null
+@70080 Channel: 0 Notes{ octave=5, noteName='A', velocity=112, synthNotes='13 [5]'}
+@70080 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@70559 Channel: 0 null
+@70559 Channel: 0 null
+@70560 Channel: 0 Notes{ octave=5, noteName='G', velocity=112, synthNotes='11 [5]'}
+@70560 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@70799 Channel: 0 null
+@70799 Channel: 0 null
+@70800 Channel: 0 Notes{ octave=5, noteName='F', velocity=112, synthNotes='9 [5]'}
+@70800 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@71039 Channel: 0 null
+@71039 Channel: 0 null
+@71040 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@71040 Channel: 0 Notes{ octave=4, noteName='G', velocity=112, synthNotes='11 [4]'}
+@71519 Channel: 0 null
+@71519 Channel: 0 null
+@71520 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@71520 Channel: 0 Notes{ octave=4, noteName='G', velocity=112, synthNotes='11 [4]'}
+@71759 Channel: 0 null
+@71759 Channel: 0 null
+@71760 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@71760 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@71999 Channel: 0 null
+@71999 Channel: 0 null
+@72000 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@72000 Channel: 0 Notes{ octave=4, noteName='G', velocity=112, synthNotes='11 [4]'}
+@72479 Channel: 0 null
+@72479 Channel: 0 null
+@72480 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@72480 Channel: 0 Notes{ octave=4, noteName='F', velocity=112, synthNotes='9 [4]'}
+@72719 Channel: 0 null
+@72719 Channel: 0 null
+@72720 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@72720 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@72959 Channel: 0 null
+@72959 Channel: 0 null
+@72960 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@72960 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@73199 Channel: 0 null
+@73199 Channel: 0 null
+@73200 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@73439 Channel: 0 null
+@73440 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@73559 Channel: 0 null
+@73560 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@73679 Channel: 0 null
+@73680 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@73919 Channel: 0 null
+@73920 Channel: 0 Notes{ octave=5, noteName='D', velocity=112, synthNotes='6 [5]'}
+@73920 Channel: 0 Notes{ octave=4, noteName='H', velocity=112, synthNotes='15 [4]'}
+@74399 Channel: 0 null
+@74399 Channel: 0 null
+@74400 Channel: 0 Notes{ octave=5, noteName='E', velocity=112, synthNotes='8 [5]'}
+@74400 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@74879 Channel: 0 null
+@74879 Channel: 0 null
+@74880 Channel: 0 Notes{ octave=5, noteName='C', velocity=112, synthNotes='4 [5]'}
+@74880 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@75359 Channel: 0 null
+@75359 Channel: 0 null
+@75360 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@75360 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@75839 Channel: 0 null
+@75839 Channel: 0 null
+@75840 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@75840 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@76799 Channel: 0 null
+@76799 Channel: 0 null
+@76800 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@76800 Channel: 0 Notes{ octave=4, noteName='C', velocity=112, synthNotes='4 [4]'}
+@77759 Channel: 0 null
+@77759 Channel: 0 null
+@77760 Channel: 0 Notes{ octave=4, noteName='C', velocity=112, synthNotes='4 [4]'}
+@77760 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@78719 Channel: 0 null
+@78719 Channel: 0 null
+@78720 Channel: 0 Notes{ octave=4, noteName='D', velocity=112, synthNotes='6 [4]'}
+@78720 Channel: 0 Notes{ octave=3, noteName='H', velocity=112, synthNotes='15 [3]'}
+@79679 Channel: 0 null
+@79679 Channel: 0 null
+@79680 Channel: 0 Notes{ octave=3, noteName='H', velocity=112, synthNotes='15 [3]'}
+@79680 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@80639 Channel: 0 null
+@80639 Channel: 0 null
+@80640 Channel: 0 Notes{ octave=4, noteName='C', velocity=112, synthNotes='4 [4]'}
+@80640 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@81599 Channel: 0 null
+@81599 Channel: 0 null
+@81600 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@81600 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@82559 Channel: 0 null
+@82559 Channel: 0 null
+@82560 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@82560 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@83519 Channel: 0 null
+@83519 Channel: 0 null
+@83520 Channel: 0 Notes{ octave=3, noteName='H', velocity=112, synthNotes='15 [3]'}
+@83520 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@84479 Channel: 0 null
+@84479 Channel: 0 null
+@84480 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@84480 Channel: 0 Notes{ octave=4, noteName='C', velocity=112, synthNotes='4 [4]'}
+@85439 Channel: 0 null
+@85439 Channel: 0 null
+@85440 Channel: 0 Notes{ octave=4, noteName='C', velocity=112, synthNotes='4 [4]'}
+@85440 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@86399 Channel: 0 null
+@86399 Channel: 0 null
+@86400 Channel: 0 Notes{ octave=4, noteName='D', velocity=112, synthNotes='6 [4]'}
+@86400 Channel: 0 Notes{ octave=3, noteName='H', velocity=112, synthNotes='15 [3]'}
+@87359 Channel: 0 null
+@87359 Channel: 0 null
+@87360 Channel: 0 Notes{ octave=3, noteName='H', velocity=112, synthNotes='15 [3]'}
+@87360 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@88319 Channel: 0 null
+@88319 Channel: 0 null
+@88320 Channel: 0 Notes{ octave=4, noteName='C', velocity=112, synthNotes='4 [4]'}
+@88320 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@88799 Channel: 0 null
+@88799 Channel: 0 null
+@88800 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@88800 Channel: 0 Notes{ octave=4, noteName='C', velocity=112, synthNotes='4 [4]'}
+@89279 Channel: 0 null
+@89279 Channel: 0 null
+@89280 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@89280 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@89759 Channel: 0 null
+@89759 Channel: 0 null
+@89760 Channel: 0 Notes{ octave=4, noteName='A', velocity=112, synthNotes='13 [4]'}
+@89760 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@90239 Channel: 0 null
+@90239 Channel: 0 null
+@90240 Channel: 0 Notes{ octave=4, noteName='G#', velocity=112, synthNotes='12 [4]'}
+@90240 Channel: 0 Notes{ octave=4, noteName='E', velocity=112, synthNotes='8 [4]'}
+@92159 Channel: 0 null
+@92159 Channel: 0 null
+@92160 -----------------------------------------------------------------------------------------------
+Track 2 size = 754
+
+@0 @0 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@239 Channel: 0 null
+@240 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@479 Channel: 0 null
+@480 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@719 Channel: 0 null
+@720 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@959 Channel: 0 null
+@960 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@1199 Channel: 0 null
+@1200 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@1439 Channel: 0 null
+@1440 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@1679 Channel: 0 null
+@1680 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@1919 Channel: 0 null
+@1920 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@2159 Channel: 0 null
+@2160 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@2399 Channel: 0 null
+@2400 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@2639 Channel: 0 null
+@2640 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@2879 Channel: 0 null
+@2880 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@3119 Channel: 0 null
+@3120 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@3359 Channel: 0 null
+@3360 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@3599 Channel: 0 null
+@3600 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@3839 Channel: 0 null
+@3840 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@4079 Channel: 0 null
+@4080 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@4319 Channel: 0 null
+@4320 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@4559 Channel: 0 null
+@4560 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@4799 Channel: 0 null
+@4800 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@5039 Channel: 0 null
+@5040 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@5279 Channel: 0 null
+@5280 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@5519 Channel: 0 null
+@5520 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@5759 Channel: 0 null
+@5760 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@5999 Channel: 0 null
+@6000 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@6239 Channel: 0 null
+@6240 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@6479 Channel: 0 null
+@6480 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@6719 Channel: 0 null
+@6720 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@6959 Channel: 0 null
+@6960 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@7199 Channel: 0 null
+@7200 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@7439 Channel: 0 null
+@7440 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@7679 Channel: 0 null
+@7680 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@7919 Channel: 0 null
+@7920 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@8159 Channel: 0 null
+@8160 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@8399 Channel: 0 null
+@8400 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@8639 Channel: 0 null
+@8640 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@8879 Channel: 0 null
+@8880 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@9119 Channel: 0 null
+@9120 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@9359 Channel: 0 null
+@9360 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@9599 Channel: 0 null
+@9600 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@9839 Channel: 0 null
+@9840 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@10079 Channel: 0 null
+@10080 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@10319 Channel: 0 null
+@10320 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@10559 Channel: 0 null
+@10560 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@10799 Channel: 0 null
+@10800 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@11039 Channel: 0 null
+@11040 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@11279 Channel: 0 null
+@11280 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@11519 Channel: 0 null
+@11520 Channel: 0 Notes{ octave=1, noteName='G', velocity=112, synthNotes='11 [1]'}
+@11759 Channel: 0 null
+@11760 Channel: 0 Notes{ octave=2, noteName='G', velocity=112, synthNotes='11 [2]'}
+@11999 Channel: 0 null
+@12000 Channel: 0 Notes{ octave=1, noteName='G', velocity=112, synthNotes='11 [1]'}
+@12239 Channel: 0 null
+@12240 Channel: 0 Notes{ octave=2, noteName='G', velocity=112, synthNotes='11 [2]'}
+@12479 Channel: 0 null
+@12480 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@12719 Channel: 0 null
+@12720 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@12959 Channel: 0 null
+@12960 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@13199 Channel: 0 null
+@13200 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@13439 Channel: 0 null
+@13440 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@13679 Channel: 0 null
+@13680 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@13919 Channel: 0 null
+@13920 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@14159 Channel: 0 null
+@14160 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@14399 Channel: 0 null
+@14400 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@14639 Channel: 0 null
+@14640 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@14879 Channel: 0 null
+@14880 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@15359 Channel: 0 null
+@15360 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@15599 Channel: 0 null
+@15600 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@15839 Channel: 0 null
+@15840 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@16079 Channel: 0 null
+@16080 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@16319 Channel: 0 null
+@16320 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@16559 Channel: 0 null
+@16560 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@16799 Channel: 0 null
+@16800 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@17039 Channel: 0 null
+@17040 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@17279 Channel: 0 null
+@17280 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@17519 Channel: 0 null
+@17520 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@17759 Channel: 0 null
+@17760 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@17999 Channel: 0 null
+@18000 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@18239 Channel: 0 null
+@18240 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@18479 Channel: 0 null
+@18480 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@18719 Channel: 0 null
+@18720 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@18959 Channel: 0 null
+@18960 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@19199 Channel: 0 null
+@19200 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@19439 Channel: 0 null
+@19440 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@19679 Channel: 0 null
+@19680 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@19919 Channel: 0 null
+@19920 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@20159 Channel: 0 null
+@20160 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@20399 Channel: 0 null
+@20400 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@20639 Channel: 0 null
+@20640 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@20879 Channel: 0 null
+@20880 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@21119 Channel: 0 null
+@21120 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@21359 Channel: 0 null
+@21360 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@21599 Channel: 0 null
+@21600 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@21839 Channel: 0 null
+@21840 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@22079 Channel: 0 null
+@22080 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@22319 Channel: 0 null
+@22320 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@22559 Channel: 0 null
+@22560 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@22799 Channel: 0 null
+@22800 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@23039 Channel: 0 null
+@23040 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@23279 Channel: 0 null
+@23280 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@23519 Channel: 0 null
+@23520 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@23759 Channel: 0 null
+@23760 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@23999 Channel: 0 null
+@24000 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@24239 Channel: 0 null
+@24240 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@24479 Channel: 0 null
+@24480 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@24719 Channel: 0 null
+@24720 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@24959 Channel: 0 null
+@24960 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@25199 Channel: 0 null
+@25200 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@25439 Channel: 0 null
+@25440 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@25679 Channel: 0 null
+@25680 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@25919 Channel: 0 null
+@25920 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@26159 Channel: 0 null
+@26160 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@26399 Channel: 0 null
+@26400 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@26639 Channel: 0 null
+@26640 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@26879 Channel: 0 null
+@26880 Channel: 0 Notes{ octave=1, noteName='G', velocity=112, synthNotes='11 [1]'}
+@27119 Channel: 0 null
+@27120 Channel: 0 Notes{ octave=2, noteName='G', velocity=112, synthNotes='11 [2]'}
+@27359 Channel: 0 null
+@27360 Channel: 0 Notes{ octave=1, noteName='G', velocity=112, synthNotes='11 [1]'}
+@27599 Channel: 0 null
+@27600 Channel: 0 Notes{ octave=2, noteName='G', velocity=112, synthNotes='11 [2]'}
+@27839 Channel: 0 null
+@27840 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@28079 Channel: 0 null
+@28080 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@28319 Channel: 0 null
+@28320 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@28559 Channel: 0 null
+@28560 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@28799 Channel: 0 null
+@28800 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@29039 Channel: 0 null
+@29040 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@29279 Channel: 0 null
+@29280 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@29519 Channel: 0 null
+@29520 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@29759 Channel: 0 null
+@29760 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@29999 Channel: 0 null
+@30000 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@30239 Channel: 0 null
+@30240 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@30719 Channel: 0 null
+@30720 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@30959 Channel: 0 null
+@30960 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@31199 Channel: 0 null
+@31200 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@31439 Channel: 0 null
+@31440 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@31679 Channel: 0 null
+@31680 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@31919 Channel: 0 null
+@31920 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@32159 Channel: 0 null
+@32160 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@32399 Channel: 0 null
+@32400 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@32639 Channel: 0 null
+@32640 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@32879 Channel: 0 null
+@32880 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@33119 Channel: 0 null
+@33120 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@33359 Channel: 0 null
+@33360 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@33599 Channel: 0 null
+@33600 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@33839 Channel: 0 null
+@33840 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@34079 Channel: 0 null
+@34080 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@34319 Channel: 0 null
+@34320 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@34559 Channel: 0 null
+@34560 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@34799 Channel: 0 null
+@34800 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@35039 Channel: 0 null
+@35040 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@35279 Channel: 0 null
+@35280 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@35519 Channel: 0 null
+@35520 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@35759 Channel: 0 null
+@35760 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@35999 Channel: 0 null
+@36000 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@36239 Channel: 0 null
+@36240 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@36479 Channel: 0 null
+@36480 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@36719 Channel: 0 null
+@36720 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@36959 Channel: 0 null
+@36960 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@37199 Channel: 0 null
+@37200 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@37439 Channel: 0 null
+@37440 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@37679 Channel: 0 null
+@37680 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@37919 Channel: 0 null
+@37920 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@38159 Channel: 0 null
+@38160 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@38399 Channel: 0 null
+@38400 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@38639 Channel: 0 null
+@38640 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@38879 Channel: 0 null
+@38880 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@39119 Channel: 0 null
+@39120 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@39359 Channel: 0 null
+@39360 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@39599 Channel: 0 null
+@39600 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@39839 Channel: 0 null
+@39840 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@40079 Channel: 0 null
+@40080 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@40319 Channel: 0 null
+@40320 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@40559 Channel: 0 null
+@40560 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@40799 Channel: 0 null
+@40800 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@41039 Channel: 0 null
+@41040 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@41279 Channel: 0 null
+@41280 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@41519 Channel: 0 null
+@41520 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@41759 Channel: 0 null
+@41760 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@41999 Channel: 0 null
+@42000 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@42239 Channel: 0 null
+@42240 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@42479 Channel: 0 null
+@42480 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@42719 Channel: 0 null
+@42720 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@42959 Channel: 0 null
+@42960 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@43199 Channel: 0 null
+@43200 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@43439 Channel: 0 null
+@43440 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@43679 Channel: 0 null
+@43680 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@43919 Channel: 0 null
+@43920 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@44159 Channel: 0 null
+@44160 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@44399 Channel: 0 null
+@44400 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@44639 Channel: 0 null
+@44640 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@44879 Channel: 0 null
+@44880 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@45119 Channel: 0 null
+@45120 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@45599 Channel: 0 null
+@45600 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@46079 Channel: 0 null
+@46080 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@46319 Channel: 0 null
+@46320 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@46559 Channel: 0 null
+@46560 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@46799 Channel: 0 null
+@46800 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@47039 Channel: 0 null
+@47040 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@47279 Channel: 0 null
+@47280 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@47519 Channel: 0 null
+@47520 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@47759 Channel: 0 null
+@47760 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@47999 Channel: 0 null
+@48000 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@48239 Channel: 0 null
+@48240 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@48479 Channel: 0 null
+@48480 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@48719 Channel: 0 null
+@48720 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@48959 Channel: 0 null
+@48960 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@49199 Channel: 0 null
+@49200 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@49439 Channel: 0 null
+@49440 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@49679 Channel: 0 null
+@49680 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@49919 Channel: 0 null
+@49920 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@50159 Channel: 0 null
+@50160 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@50399 Channel: 0 null
+@50400 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@50639 Channel: 0 null
+@50640 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@50879 Channel: 0 null
+@50880 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@51119 Channel: 0 null
+@51120 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@51359 Channel: 0 null
+@51360 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@51599 Channel: 0 null
+@51600 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@51839 Channel: 0 null
+@51840 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@52079 Channel: 0 null
+@52080 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@52319 Channel: 0 null
+@52320 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@52559 Channel: 0 null
+@52560 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@52799 Channel: 0 null
+@52800 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@53039 Channel: 0 null
+@53040 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@53279 Channel: 0 null
+@53280 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@53519 Channel: 0 null
+@53520 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@53759 Channel: 0 null
+@53760 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@53999 Channel: 0 null
+@54000 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@54239 Channel: 0 null
+@54240 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@54479 Channel: 0 null
+@54480 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@54719 Channel: 0 null
+@54720 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@54959 Channel: 0 null
+@54960 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@55199 Channel: 0 null
+@55200 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@55439 Channel: 0 null
+@55440 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@55679 Channel: 0 null
+@55680 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@55919 Channel: 0 null
+@55920 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@56159 Channel: 0 null
+@56160 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@56399 Channel: 0 null
+@56400 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@56639 Channel: 0 null
+@56640 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@56879 Channel: 0 null
+@56880 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@57119 Channel: 0 null
+@57120 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@57359 Channel: 0 null
+@57360 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@57599 Channel: 0 null
+@57600 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@57839 Channel: 0 null
+@57840 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@58079 Channel: 0 null
+@58080 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@58319 Channel: 0 null
+@58320 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@58559 Channel: 0 null
+@58560 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@58799 Channel: 0 null
+@58800 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@59039 Channel: 0 null
+@59040 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@59279 Channel: 0 null
+@59280 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@59519 Channel: 0 null
+@59520 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@59759 Channel: 0 null
+@59760 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@59999 Channel: 0 null
+@60000 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@60239 Channel: 0 null
+@60240 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@60479 Channel: 0 null
+@60480 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@60719 Channel: 0 null
+@60720 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@60959 Channel: 0 null
+@60960 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@61439 Channel: 0 null
+@61440 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@61679 Channel: 0 null
+@61680 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@61919 Channel: 0 null
+@61920 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@62159 Channel: 0 null
+@62160 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@62399 Channel: 0 null
+@62400 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@62639 Channel: 0 null
+@62640 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@62879 Channel: 0 null
+@62880 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@63119 Channel: 0 null
+@63120 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@63359 Channel: 0 null
+@63360 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@63599 Channel: 0 null
+@63600 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@63839 Channel: 0 null
+@63840 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@64079 Channel: 0 null
+@64080 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@64319 Channel: 0 null
+@64320 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@64559 Channel: 0 null
+@64560 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@64799 Channel: 0 null
+@64800 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@65039 Channel: 0 null
+@65040 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@65279 Channel: 0 null
+@65280 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@65519 Channel: 0 null
+@65520 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@65759 Channel: 0 null
+@65760 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@65999 Channel: 0 null
+@66000 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@66239 Channel: 0 null
+@66240 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@66479 Channel: 0 null
+@66480 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@66719 Channel: 0 null
+@66720 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@66959 Channel: 0 null
+@66960 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@67199 Channel: 0 null
+@67200 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@67439 Channel: 0 null
+@67440 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@67679 Channel: 0 null
+@67680 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@67919 Channel: 0 null
+@67920 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@68159 Channel: 0 null
+@68160 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@68399 Channel: 0 null
+@68400 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@68639 Channel: 0 null
+@68640 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@68879 Channel: 0 null
+@68880 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@69119 Channel: 0 null
+@69120 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@69359 Channel: 0 null
+@69360 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@69599 Channel: 0 null
+@69600 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@69839 Channel: 0 null
+@69840 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@70079 Channel: 0 null
+@70080 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@70319 Channel: 0 null
+@70320 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@70559 Channel: 0 null
+@70560 Channel: 0 Notes{ octave=2, noteName='D', velocity=112, synthNotes='6 [2]'}
+@70799 Channel: 0 null
+@70800 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@71039 Channel: 0 null
+@71040 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@71279 Channel: 0 null
+@71280 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@71519 Channel: 0 null
+@71520 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@71759 Channel: 0 null
+@71760 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@71999 Channel: 0 null
+@72000 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@72239 Channel: 0 null
+@72240 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@72479 Channel: 0 null
+@72480 Channel: 0 Notes{ octave=2, noteName='C', velocity=112, synthNotes='4 [2]'}
+@72719 Channel: 0 null
+@72720 Channel: 0 Notes{ octave=3, noteName='C', velocity=112, synthNotes='4 [3]'}
+@72959 Channel: 0 null
+@72960 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@73199 Channel: 0 null
+@73200 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@73439 Channel: 0 null
+@73440 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@73679 Channel: 0 null
+@73680 Channel: 0 Notes{ octave=3, noteName='G#', velocity=112, synthNotes='12 [3]'}
+@73919 Channel: 0 null
+@73920 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@74159 Channel: 0 null
+@74160 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@74399 Channel: 0 null
+@74400 Channel: 0 Notes{ octave=2, noteName='E', velocity=112, synthNotes='8 [2]'}
+@74639 Channel: 0 null
+@74640 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@74879 Channel: 0 null
+@74880 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@75119 Channel: 0 null
+@75120 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@75359 Channel: 0 null
+@75360 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@75599 Channel: 0 null
+@75600 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@75839 Channel: 0 null
+@75840 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@76079 Channel: 0 null
+@76080 Channel: 0 Notes{ octave=3, noteName='A', velocity=112, synthNotes='13 [3]'}
+@76319 Channel: 0 null
+@76320 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@76799 Channel: 0 null
+@76800 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@77039 Channel: 0 null
+@77040 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@77279 Channel: 0 null
+@77280 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@77519 Channel: 0 null
+@77520 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@77759 Channel: 0 null
+@77760 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@77999 Channel: 0 null
+@78000 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@78239 Channel: 0 null
+@78240 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@78479 Channel: 0 null
+@78480 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@78719 Channel: 0 null
+@78720 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@78959 Channel: 0 null
+@78960 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@79199 Channel: 0 null
+@79200 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@79439 Channel: 0 null
+@79440 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@79679 Channel: 0 null
+@79680 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@79919 Channel: 0 null
+@79920 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@80159 Channel: 0 null
+@80160 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@80399 Channel: 0 null
+@80400 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@80639 Channel: 0 null
+@80640 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@80879 Channel: 0 null
+@80880 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@81119 Channel: 0 null
+@81120 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@81359 Channel: 0 null
+@81360 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@81599 Channel: 0 null
+@81600 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@81839 Channel: 0 null
+@81840 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@82079 Channel: 0 null
+@82080 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@82319 Channel: 0 null
+@82320 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@82559 Channel: 0 null
+@82560 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@82799 Channel: 0 null
+@82800 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@83039 Channel: 0 null
+@83040 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@83279 Channel: 0 null
+@83280 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@83519 Channel: 0 null
+@83520 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@83759 Channel: 0 null
+@83760 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@83999 Channel: 0 null
+@84000 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@84239 Channel: 0 null
+@84240 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@84479 Channel: 0 null
+@84480 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@84719 Channel: 0 null
+@84720 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@84959 Channel: 0 null
+@84960 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@85199 Channel: 0 null
+@85200 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@85439 Channel: 0 null
+@85440 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@85679 Channel: 0 null
+@85680 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@85919 Channel: 0 null
+@85920 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@86159 Channel: 0 null
+@86160 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@86399 Channel: 0 null
+@86400 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@86639 Channel: 0 null
+@86640 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@86879 Channel: 0 null
+@86880 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@87119 Channel: 0 null
+@87120 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@87359 Channel: 0 null
+@87360 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@87599 Channel: 0 null
+@87600 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@87839 Channel: 0 null
+@87840 Channel: 0 Notes{ octave=2, noteName='H', velocity=112, synthNotes='15 [2]'}
+@88079 Channel: 0 null
+@88080 Channel: 0 Notes{ octave=3, noteName='D', velocity=112, synthNotes='6 [3]'}
+@88319 Channel: 0 null
+@88320 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@88559 Channel: 0 null
+@88560 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@88799 Channel: 0 null
+@88800 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@89039 Channel: 0 null
+@89040 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@89279 Channel: 0 null
+@89280 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@89519 Channel: 0 null
+@89520 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@89759 Channel: 0 null
+@89760 Channel: 0 Notes{ octave=2, noteName='A', velocity=112, synthNotes='13 [2]'}
+@89999 Channel: 0 null
+@90000 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@90239 Channel: 0 null
+@90240 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@90479 Channel: 0 null
+@90480 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@90719 Channel: 0 null
+@90720 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@90959 Channel: 0 null
+@90960 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@91199 Channel: 0 null
+@91200 Channel: 0 Notes{ octave=3, noteName='E', velocity=112, synthNotes='8 [3]'}
+@91200 Channel: 0 Notes{ octave=2, noteName='G#', velocity=112, synthNotes='12 [2]'}
+@92159 Channel: 0 null
+@92159 Channel: 0 null
+@92160 
